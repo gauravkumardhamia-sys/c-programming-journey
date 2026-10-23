@@ -22,4 +22,4 @@ I'm a BCA student learning programing and improving my problem solving skills st
 
 - File : fibbonacci.c
 - Description : A C program which prints a series where the first two numbers and number of terms are given by the user . How it works : the every third number of the series is the sum of its previous two   numbers. for example: 5,9,14,23------
-- 
+  
